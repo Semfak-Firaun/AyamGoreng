@@ -377,7 +377,8 @@ footer {
         }
         .boxcatering .row {
             flex-wrap: wrap;
-            padding: 0 10px;
+            margin: 0;
+            padding: 0 5px 0 10px 5%;
         }
     }
          
@@ -426,7 +427,8 @@ footer {
         }
         .boxcatering .row {
             flex-wrap: wrap;
-            padding: 0 10px;
+            margin: 0;
+            padding: 0 5px 0 10px 5%;
         }
     }
     
