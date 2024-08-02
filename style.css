@@ -100,7 +100,8 @@ body {
 .hero .content p {
     font-size: 15px;
     width: 350px;
-    text-align: justify;
+    text-align: left;
+    padding-right: 5px;
 }
 .hero .content .raba {
     margin-top: 10px;
