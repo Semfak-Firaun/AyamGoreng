@@ -379,7 +379,6 @@ footer {
             flex-wrap: wrap;
             margin: 0;
             padding: 0 5px 0 10px 5%;
-            border: 2px solid;
         }
     }
          
@@ -430,7 +429,6 @@ footer {
             flex-wrap: wrap;
             margin: 0;
             padding: 0 5px 0 10px 5%;
-            border: 2px solid red;
         }
     }
     
