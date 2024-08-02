@@ -375,6 +375,10 @@ footer {
         .navbar .navbar-page a:hover::after {
             transform: scaleX(0.5);
         }
+        .boxcatering .row {
+            flex-wrap: wrap;
+            padding: 0 5%;
+}
     }
          
     
@@ -420,6 +424,10 @@ footer {
         .navbar .navbar-page a:hover::after {
             transform: scaleX(0.5);
         }
+        .boxcatering .row {
+            flex-wrap: wrap;
+            padding: 0 5%;
+}
     }
     
 
